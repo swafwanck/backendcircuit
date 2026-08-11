@@ -48,6 +48,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
+
 ROOT_URLCONF = "backendcircuit.urls"
 WSGI_APPLICATION = "backendcircuit.wsgi.application"
 ASGI_APPLICATION = "backendcircuit.asgi.application"
